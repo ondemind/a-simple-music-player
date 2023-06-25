@@ -9,6 +9,6 @@ Something like this: ```py main.py```
 
 You may probably need another command to run it if you are using another version of Python or another OS.
 
-**IMPORTANT:** In order to make the script work, you must have downloaded a Codec Pack, it think that any Codec Pack can work, but I personally use the K-Lite Codec Pack: https://www.codecguide.com/download_kl.htm
+**IMPORTANT:** In order to make the script work, you must have downloaded a Codec Pack. I think that with any Codec Pack can work, but I personally use the K-Lite Codec Pack: https://www.codecguide.com/download_kl.htm
 
 This is far from being a professional Python project, so be free on making suggestions through the issues sections or doing some contributions to my project.
